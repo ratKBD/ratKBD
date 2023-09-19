@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ratKDB
-- 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning React  
+- 👀 I’m a React Developer  
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me vratheesh123@gmail.com
 
